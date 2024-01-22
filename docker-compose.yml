@@ -4,4 +4,4 @@ services:
     build: ./    
     container_name: tg-webapp-datepicker    
     ports:      
-      - '8080:80'
+      - '48965:80'
